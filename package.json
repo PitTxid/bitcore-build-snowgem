@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/snowgem/bitcore-build-snowgem"
+    "url": "git://github.com/pittxid/bitcore-build-snowgem"
   },
   "keywords": [
     "bitcore"
@@ -33,9 +33,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/snowgem/bitcore-build-snowgem/issues"
+    "url": "https://github.com/pittxid/bitcore-build-snowgem/issues"
   },
-  "homepage": "https://github.com/snowgem/bitcore-build-snowgem",
+  "homepage": "https://github.com/pittxid/bitcore-build-snowgem",
   "dependencies": {
     "brfs": "^1.2.0",
     "browserify": "~13.1.0",
